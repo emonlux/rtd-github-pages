@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to helloWorld's documentation!
+Welcome to simpleCounter's documentation!
 ======================================
 
 .. toctree::
@@ -11,7 +11,9 @@ Welcome to helloWorld's documentation!
    :caption: Contents:
 
 
-   autodoc
+   vivado_vivado/index
+   Yosys_F4PGA/index
+
 
 
 Indices and 
