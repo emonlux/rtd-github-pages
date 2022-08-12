@@ -10,11 +10,8 @@ Welcome to simpleCounter's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
    vivado_vivado/index
-   Yosys_F4PGA/index
-
-
+   yosys_f4pga/index
 
 Indices and tables
 ==================

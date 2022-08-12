@@ -1,0 +1,63 @@
+{'.NS': 'EDIF', '.NAME': 'GND', 'EDIF.identifier': 'GND'}
+{'.NS': 'EDIF', '.NAME': 'VCC', 'EDIF.identifier': 'VCC'}
+{'.NS': 'EDIF', '.NAME': 'btnc_IBUF_inst', 'EDIF.identifier': 'btnc_IBUF_inst'}
+{'.NS': 'EDIF', '.NAME': 'btnu_IBUF_inst', 'EDIF.identifier': 'btnu_IBUF_inst'}
+{'.NS': 'EDIF', '.NAME': 'clk_IBUF_BUFG_inst', 'EDIF.identifier': 'clk_IBUF_BUFG_inst'}
+{'.NS': 'EDIF', '.NAME': 'clk_IBUF_inst', 'EDIF.identifier': 'clk_IBUF_inst'}
+{'.NS': 'EDIF', '.NAME': 'f1_reg', 'EDIF.identifier': 'f1_reg', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'f2_reg', 'EDIF.identifier': 'f2_reg', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'led[0]_i_1', 'EDIF.identifier': 'led_0__i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "2'h1"}, {'identifier': 'SOFT_HLUTNM', 'value': 'soft_lutpair2'}]}
+{'.NS': 'EDIF', '.NAME': 'led[1]_i_1', 'EDIF.identifier': 'led_1__i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "4'h6"}, {'identifier': 'SOFT_HLUTNM', 'value': 'soft_lutpair2'}]}
+{'.NS': 'EDIF', '.NAME': 'led[2]_i_1', 'EDIF.identifier': 'led_2__i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "8'h78"}, {'identifier': 'SOFT_HLUTNM', 'value': 'soft_lutpair1'}]}
+{'.NS': 'EDIF', '.NAME': 'led[3]_i_1', 'EDIF.identifier': 'led_3__i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "4'h2"}]}
+{'.NS': 'EDIF', '.NAME': 'led[3]_i_2', 'EDIF.identifier': 'led_3__i_2', 'EDIF.properties': [{'identifier': 'INIT', 'value': "16'h7F80"}, {'identifier': 'SOFT_HLUTNM', 'value': 'soft_lutpair1'}]}
+{'.NS': 'EDIF', '.NAME': 'led_OBUF[0]_inst', 'EDIF.identifier': 'led_OBUF_0__inst'}
+{'.NS': 'EDIF', '.NAME': 'led_OBUF[1]_inst', 'EDIF.identifier': 'led_OBUF_1__inst'}
+{'.NS': 'EDIF', '.NAME': 'led_OBUF[2]_inst', 'EDIF.identifier': 'led_OBUF_2__inst'}
+{'.NS': 'EDIF', '.NAME': 'led_OBUF[3]_inst', 'EDIF.identifier': 'led_OBUF_3__inst'}
+{'.NS': 'EDIF', '.NAME': 'led_reg[0]', 'EDIF.identifier': 'led_reg_0_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'led_reg[1]', 'EDIF.identifier': 'led_reg_1_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'led_reg[2]', 'EDIF.identifier': 'led_reg_2_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'led_reg[3]', 'EDIF.identifier': 'led_reg_3_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'my_debounceCounter', 'EDIF.identifier': 'my_debounceCounter'}
+{'.NS': 'EDIF', '.NAME': 'one_shot_1_reg', 'EDIF.identifier': 'one_shot_1_reg', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'one_shot_2_reg', 'EDIF.identifier': 'one_shot_2_reg', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs[0]_i_1', 'EDIF.identifier': 'FSM_sequential_cs_0__i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "32'h00000666"}, {'identifier': 'SOFT_HLUTNM', 'value': 'soft_lutpair0'}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs[1]_i_1', 'EDIF.identifier': 'FSM_sequential_cs_1__i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "32'h0000BF80"}, {'identifier': 'SOFT_HLUTNM', 'value': 'soft_lutpair0'}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs[1]_i_2', 'EDIF.identifier': 'FSM_sequential_cs_1__i_2', 'EDIF.properties': [{'identifier': 'INIT', 'value': "16'h4000"}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs[1]_i_3', 'EDIF.identifier': 'FSM_sequential_cs_1__i_3', 'EDIF.properties': [{'identifier': 'INIT', 'value': "32'hFFFFFFFB"}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs[1]_i_4', 'EDIF.identifier': 'FSM_sequential_cs_1__i_4', 'EDIF.properties': [{'identifier': 'INIT', 'value': "16'h0001"}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs[1]_i_5', 'EDIF.identifier': 'FSM_sequential_cs_1__i_5', 'EDIF.properties': [{'identifier': 'INIT', 'value': "32'h80000000"}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs[1]_i_6', 'EDIF.identifier': 'FSM_sequential_cs_1__i_6', 'EDIF.properties': [{'identifier': 'INIT', 'value': "32'h80000000"}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs_reg[0]', 'EDIF.identifier': 'FSM_sequential_cs_reg_0_', 'EDIF.properties': [{'identifier': 'FSM_ENCODED_STATES', 'value': 'S1:01,S2:10,S3:11,S0:00'}, {'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'FSM_sequential_cs_reg[1]', 'EDIF.identifier': 'FSM_sequential_cs_reg_1_', 'EDIF.properties': [{'identifier': 'FSM_ENCODED_STATES', 'value': 'S1:01,S2:10,S3:11,S0:00'}, {'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'GND', 'EDIF.identifier': 'GND'}
+{'.NS': 'EDIF', '.NAME': 'VCC', 'EDIF.identifier': 'VCC'}
+{'.NS': 'EDIF', '.NAME': 'count[0]_i_1', 'EDIF.identifier': 'count_0__i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "4'h1"}]}
+{'.NS': 'EDIF', '.NAME': 'count[0]_i_3', 'EDIF.identifier': 'count_0__i_3', 'EDIF.properties': [{'identifier': 'INIT', 'value': "2'h1"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[0]', 'EDIF.identifier': 'count_reg_0_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[0]_i_2', 'EDIF.identifier': 'count_reg_0__i_2', 'EDIF.properties': [{'identifier': 'ADDER_THRESHOLD', 'value': 11}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[10]', 'EDIF.identifier': 'count_reg_10_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[11]', 'EDIF.identifier': 'count_reg_11_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[12]', 'EDIF.identifier': 'count_reg_12_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[12]_i_1', 'EDIF.identifier': 'count_reg_12__i_1', 'EDIF.properties': [{'identifier': 'ADDER_THRESHOLD', 'value': 11}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[13]', 'EDIF.identifier': 'count_reg_13_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[14]', 'EDIF.identifier': 'count_reg_14_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[15]', 'EDIF.identifier': 'count_reg_15_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[16]', 'EDIF.identifier': 'count_reg_16_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[16]_i_1', 'EDIF.identifier': 'count_reg_16__i_1', 'EDIF.properties': [{'identifier': 'ADDER_THRESHOLD', 'value': 11}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[17]', 'EDIF.identifier': 'count_reg_17_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[18]', 'EDIF.identifier': 'count_reg_18_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[1]', 'EDIF.identifier': 'count_reg_1_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[2]', 'EDIF.identifier': 'count_reg_2_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[3]', 'EDIF.identifier': 'count_reg_3_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[4]', 'EDIF.identifier': 'count_reg_4_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[4]_i_1', 'EDIF.identifier': 'count_reg_4__i_1', 'EDIF.properties': [{'identifier': 'ADDER_THRESHOLD', 'value': 11}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[5]', 'EDIF.identifier': 'count_reg_5_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[6]', 'EDIF.identifier': 'count_reg_6_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[7]', 'EDIF.identifier': 'count_reg_7_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[8]', 'EDIF.identifier': 'count_reg_8_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[8]_i_1', 'EDIF.identifier': 'count_reg_8__i_1', 'EDIF.properties': [{'identifier': 'ADDER_THRESHOLD', 'value': 11}]}
+{'.NS': 'EDIF', '.NAME': 'count_reg[9]', 'EDIF.identifier': 'count_reg_9_', 'EDIF.properties': [{'identifier': 'INIT', 'value': "1'b0"}]}
+{'.NS': 'EDIF', '.NAME': 'one_shot_1_i_1', 'EDIF.identifier': 'one_shot_1_i_1', 'EDIF.properties': [{'identifier': 'INIT', 'value': "4'h2"}]}
+Identified 29 insertion points for feedback voters after flip-flop.

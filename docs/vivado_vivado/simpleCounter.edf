@@ -4,7 +4,7 @@
   (keywordmap (keywordlevel 0))
 (status
  (written
-  (timeStamp 2022 07 22 14 59 43)
+  (timeStamp 2022 08 09 15 17 01)
   (program "Vivado" (version "2022.1"))
   (comment "Built on 'Mon Apr 18 15:47:01 MDT 2022'")
   (comment "Built by 'xbuild'")
@@ -810,6 +810,8 @@
           (portref I (instanceref btnc_IBUF_inst))
           (portref btnc)
           )
+
+           (property IOSTANDARD (string "LVCMOS33"))
          )
          (net btnc_IBUF (joined
           (portref D (instanceref f1_reg))
@@ -820,6 +822,8 @@
           (portref I (instanceref btnu_IBUF_inst))
           (portref btnu)
           )
+
+           (property IOSTANDARD (string "LVCMOS33"))
          )
          (net btnu_IBUF (joined
           (portref O (instanceref btnu_IBUF_inst))
@@ -834,6 +838,8 @@
           (portref I (instanceref clk_IBUF_inst))
           (portref clk)
           )
+
+           (property IOSTANDARD (string "LVCMOS33"))
          )
          (net clk_IBUF (joined
           (portref I (instanceref clk_IBUF_BUFG_inst))
@@ -875,21 +881,29 @@
           (portref O (instanceref led_OBUF_0__inst))
           (portref (member led 3))
           )
+
+           (property IOSTANDARD (string "LVCMOS33"))
          )
          (net (rename led_1_ "led[1]") (joined
           (portref O (instanceref led_OBUF_1__inst))
           (portref (member led 2))
           )
+
+           (property IOSTANDARD (string "LVCMOS33"))
          )
          (net (rename led_2_ "led[2]") (joined
           (portref O (instanceref led_OBUF_2__inst))
           (portref (member led 1))
           )
+
+           (property IOSTANDARD (string "LVCMOS33"))
          )
          (net (rename led_3_ "led[3]") (joined
           (portref O (instanceref led_OBUF_3__inst))
           (portref (member led 0))
           )
+
+           (property IOSTANDARD (string "LVCMOS33"))
          )
          (net (rename led_OBUF_0_ "led_OBUF[0]") (joined
           (portref I (instanceref led_OBUF_0__inst))
