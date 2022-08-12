@@ -16,8 +16,8 @@ Welcome to simpleCounter's documentation!
 
 
 
-Indices and 
-===========
+Indices and tables
+==================
 
 * :ref:`genindex`
 * :ref:`modindex`

@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'helloWorld'
-copyright = '2020, Michael Altfield'
-author = 'Michael Altfield'
+project = 'simpleCounter'
+copyright = ''
+author = 'Ethan Monlux'
 
 # The short X.Y version
 version = ''
@@ -106,7 +106,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'helloWorlddoc'
+htmlhelp_basename = 'simpleCounterdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
