@@ -10,8 +10,8 @@ Welcome to helloWorld's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   testing
    
+   testing
    autodoc
 
 
