@@ -10,13 +10,12 @@ Welcome to helloWorld's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Trying Again
-   
+
    autodoc
 
 
-Indices and tables
-==================
+Indices and 
+===========
 
 * :ref:`genindex`
 * :ref:`modindex`
